@@ -12,8 +12,8 @@ alt + p                 : komorebic toggle-pause
 alt + q                 : komorebic close
 
 # Powershell launch
-alt + return         	: start wt
-alt + shift + return 	: start wsl ~
+alt + w         	: start wt
+alt + shift + w 	: start wsl ~
 
 # Manipulate windows
 alt + shift + t			: komorebic toggle-float
@@ -87,3 +87,4 @@ alt + l                 : komorebic focus right
 # Layouts
 #alt + x                 : komorebic flip-layout horizontal
 #alt + y                 : komorebic flip-layout vertical
+
