@@ -23,7 +23,7 @@
           "initial_workspace_rules": [
             {
               "kind": "Exe",
-              "id": "Brave.exe"
+              "id": "msedge.exe"
             }
           ]
         },
@@ -76,3 +76,4 @@
     }
   ]
 }
+
